@@ -1,2 +1,3 @@
-# Client-Server-FTP
-one-to-one basic client to server file sharing
+# Client Server FTP
+
+Basic Client to Server file sharing
